@@ -1,6 +1,6 @@
 {
   "name": "jquery-shim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a shim for jQuery",
   "keywords": ["jquery-shim", "shim", "dom", "jQuery"],
   "author": "Websecurify <contact@websecurify.com> (http://www.websecurify.com)",
